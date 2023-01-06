@@ -1,0 +1,68 @@
+/**首页样式**/
+
+/* 轮播图*/
+.swiper{
+	height:240px;
+}
+.slide-image{
+	width:100%;
+}
+
+/* 图文导航*/
+.image_text{
+	width:100%;
+	height:200rpx;
+	margin-top:20rpx;
+	margin-left:30rpx;
+}
+.image_text li{
+	float:left;
+	margin:10px;
+	width:20%;
+	margin-left:50rpx;
+}
+
+.image_image{
+	width:120rpx;
+	height:120rpx;
+	margin-left:10rpx;
+}
+.image_text view{
+	margin-top:24rpx;
+	font-size:36rpx;
+	
+}
+
+/* 案例列表*/
+.csae_head{
+	font-size:40rpx;
+	margin-bottom: 20rpx;
+	margin-top:70rpx;
+	margin-left:40rpx;
+}
+
+.case_img{
+	width:90%;
+	margin-left:40rpx;
+}
+
+.contact_way{
+	margin-top:20rpx;
+	margin-bottom:20rpx;
+}
+.contact_way view{
+	margin-top:20rpx;
+	margin-bottom:20rpx;
+	margin-left:40rpx;
+}
+
+/* 拨打电话按钮*/
+.call{
+	width:60rpx;
+	height:80rpx;
+	background-color: #1E90FF;
+	border:1px solid #1E90FF;
+	color:#FFFFFF;
+	margin-top:40rpx;
+	
+}

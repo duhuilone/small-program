@@ -1,0 +1,35 @@
+<!--pages/china_img/index.wxml-->
+<!--
+<view class="video">
+	<video src="" controls></video>
+    <video src="" controls></video>
+</view>
+-->
+
+<view class="img">
+   <image src="{{img1}}" bindtap="img1"></image>
+   <view class="title">{{img1_title}}</view>
+   <view class="text">{{img1_text1}}</view>
+   <view class="text">{{img1_text2}}</view>
+   <view class="text">{{img1_text3}}</view>
+
+   <image src="{{img2}}" bindtap="img2"></image>
+   <view class="title">{{img2_title}}</view>
+   <view class="text">{{img2_text}}</view>
+
+   <image src="{{img3}}" bindtap="img3"></image>
+   <view class="title">{{img3_title}}</view>
+   <view class="text">{{img3_text1}}</view>
+   <view class="text">{{img3_text2}}</view>
+</view>
+
+<!--商家联系方式 -->
+<view class="contact_way">
+<view>微信：DZGGJX4444</view>
+<view>电话：13181388445</view>
+<view>地址：德州汽车站西邻格格吉祥(东海富贵苑小区北首)</view>
+</view>
+
+<!-- 拨打电话按钮-->
+
+<button class="call" bindtap="call">联系我们</button>

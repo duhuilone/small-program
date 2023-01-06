@@ -1,0 +1,69 @@
+{
+    "pages": [
+        "pages/index/index",
+        "pages/form/index",
+        "pages/wedding_photo/index",
+        "pages/wedding_planner/index",
+        "pages/All_age_photography/index",
+        "pages/china_img/index",
+        "pages/sample1/index",
+        "pages/dali/index",
+        "pages/lijiang/index",
+        "pages/qingdao1/index",
+        "pages/chinld_photoraphy/index",
+        "pages/photo_shoot/index",
+        "pages/photo_pregnant/index",
+        "pages/couple_shooting/index",
+        "pages/family_photo/index",
+        "pages/english_img1/index",
+        "pages/china001/index",
+        "pages/china002/index",
+        "pages/china003/index",
+        "pages/english001/index",
+        "pages/english002/index",
+        "pages/english003/index",
+        "pages/english004/index",
+        "pages/english005/index",
+        "pages/english006/index",
+        "pages/english007/index",
+        "pages/english008/index",
+        "pages/english009/index",
+        "pages/english010/index",
+        "pages/english011/index",
+        "pages/english012/index",
+        "pages/english013/index",
+        "pages/english014/index",
+        "pages/english015/index",
+        "pages/english016/index",
+        "pages/english017/index",
+        "pages/english018/index",
+        "pages/english019/index",
+        "pages/english020/index"
+    ],
+    "window": {
+        "backgroundTextStyle": "light",
+        "navigationBarBackgroundColor": "#fff",
+        "navigationBarTitleText": "首页",
+        "navigationBarTextStyle": "black"
+    },
+    "style": "v2",
+    "sitemapLocation": "sitemap.json",
+    "tabBar": {
+        "selectedColor": "#4169E1",
+         "list": [
+        {
+            "selectedIconPath": "/images/2.jpg",
+            "iconPath": "/images/2.jpg",
+            "pagePath": "pages/index/index",
+            "text": "首页"
+          },
+          {
+            "selectedIconPath": "/images/2.jpg",
+            "iconPath": "/images/2.jpg",
+            "pagePath": "pages/form/index",
+            "text": "联系我们"
+          }
+    ]
+    },
+    "lazyCodeLoading": "requiredComponents"
+    }

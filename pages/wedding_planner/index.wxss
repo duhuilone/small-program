@@ -1,0 +1,36 @@
+/* pages/wedding_planner/index.wxss */
+.top{
+	margin-top:30rpx;
+}
+.nav li{
+	margin-left:65rpx;
+}
+.line{
+	width:100%;
+	border-top:1px solid #6495ED;
+	margin-top:10rpx;
+}
+.img{
+	width:97%;
+	margin-left:12rpx;
+	margin-top:20rpx;
+}
+
+/* 联系方式*/
+.contact_way{
+	margin-top:40rpx;
+}
+.contact_way view{
+	margin-top:20rpx;
+	margin-left:30rpx;
+}
+/* 拨打电话按钮*/
+.call{
+	width:60rpx;
+	height:80rpx;
+	background-color: #1E90FF;
+	border:1px solid #1E90FF;
+	color:#FFFFFF;
+	margin-top:40rpx;
+	
+}

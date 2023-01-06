@@ -1,0 +1,37 @@
+<!--婚礼策划-->
+
+<view class="top">
+<ul class="nav">
+<Li>全部</Li>
+<Li bindtap="china">中式婚礼</Li>
+<Li bindtap="english">西式婚礼</Li>
+<li bindtap="more">关于我们</li>
+</ul>
+</view>
+<view class="line"></view>
+<view>
+<image src="{{img1}}" class="img" bindtap="img1"></image>
+<view style="text-align:center;font-size:35rpx;margin:10rpx 0 20rpx 0;">{{img1_title}}</view>
+<view style="text-align:center;margin-bottom:10rpx;">{{img1_text1}}</view>
+<view style="text-align:center;margin-bottom:10rpx;">{{img1_text2}}</view>
+<view style="text-align:center">{{img1_text3}}</view>
+
+<image class="img" src="{{img2}}" bindtap="img2"></image>
+<view style="text-align:center;font-size:35rpx;margin:10rpx 0 20rpx 0;">{{img2_title}}</view>
+<view style="text-align:center">{{img2_text}}</view>
+
+<image class="img" src="{{img3}}" bindtap="img3"></image>
+<view style="text-align:center;font-size:35rpx;margin:10rpx 0 20rpx 0;">{{img3_title}}</view>
+<view style="text-align:center">{{img3_text}}</view>
+</view>
+
+<!--商家联系方式 -->
+<view class="contact_way">
+<view>微信：DZGGJX4444</view>
+<view>电话：13181388445</view>
+<view>地址：德州汽车站西邻格格吉祥(东海富贵苑小区北首)</view>
+</view>
+
+<!-- 拨打电话按钮-->
+
+<button class="call" bindtap="call">联系我们</button>

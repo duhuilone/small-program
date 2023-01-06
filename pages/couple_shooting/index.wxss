@@ -1,0 +1,22 @@
+/* pages/couple_shooting/index.wxss */
+image{
+	width:94%;
+	margin-left:26rpx;
+}
+
+.contact_way{
+	margin-top:40rpx;
+}
+.contact_way view{
+	margin-top:20rpx;
+	margin-left:40rpx;
+}
+.call{
+	width:60rpx;
+	height:80rpx;
+	background-color: #1E90FF;
+	border:1px solid #1E90FF;
+	color:#FFFFFF;
+	margin-top:40rpx;
+	
+}

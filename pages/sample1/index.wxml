@@ -1,0 +1,16 @@
+<!--客样-->
+<view wx:for="{{images}}" wx:key="{{index}}">
+<image src="{{item}}" mode="widthFix"></image>
+</view>
+
+
+<!--商家联系方式 -->
+<view class="contact_way">
+<view>微信：DZGGJX4444</view>
+<view>电话：13181388445</view>
+<view>地址：德州汽车站西邻格格吉祥(东海富贵苑小区北首)</view>
+</view>
+
+<!-- 拨打电话按钮-->
+
+<button class="call" bindtap="call">联系我们</button>

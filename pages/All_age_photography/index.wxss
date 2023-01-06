@@ -1,0 +1,28 @@
+/* pages/All_age_photography/index.wxss */
+.case image{
+	width:97%;
+	margin-left:12rpx;
+	margin-top:20rpx;
+}
+.case text{
+	margin-left:240rpx;
+}
+
+/* 联系方式*/
+.contact_way{
+	margin-top:40rpx;
+}
+.contact_way view{
+	margin-top:20rpx;
+	margin-left:20rpx;
+}
+/* 拨打电话按钮*/
+.call{
+	width:60rpx;
+	height:80rpx;
+	background-color: #1E90FF;
+	border:1px solid #1E90FF;
+	color:#FFFFFF;
+	margin-top:40rpx;
+	
+}

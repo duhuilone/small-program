@@ -1,0 +1,24 @@
+<!--表单页面-->
+<view>
+<image class="form_logo" src="/images/2.jpg"></image>
+</view>
+<view class="title">
+   <view>预约定位</view>
+   <text>预约定位将为你保留到18:00，请确保再次时间点来预约</text>
+</view>
+<!-- 虚线-->
+<view class="line"></view>
+
+<!-- 表单-->
+<view class="form">
+  <label>请输入您的名字</label>
+  <input class="name" type="text" placeholder="请输入您的名字" />
+  <label >请输入你的联系号码</label>
+  <input class="number" type="text" placeholder="请输入您的联系号码" />
+  <view>预约日期</view>
+  <label id="time">请输入日期</label>
+  <input class="time" type="date" value="" />
+  <label>其他需求</label>
+  <textarea class="demand" placeholder="请输入您的意见" />
+  <button class="submit">提交</button>
+</view>

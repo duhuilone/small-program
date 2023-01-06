@@ -1,0 +1,72 @@
+/* pages/form/index.wxss */
+
+.form_logo{
+	margin-left:70rpx;
+}
+.title{
+	color:#D2691E;
+	margin-left:20rpx;
+	margin-bottom: 20rpx;
+}
+.title view{
+	font-size:40rpx;
+	font-weight: bold;
+}
+
+.line{
+	width:90%;
+	border-top:1px dashed chocolate;
+	margin-left:20rpx;
+	margin-bottom:40rpx;
+}
+.name{
+	width:90%;
+	height:40rpx;
+	border:1.9px solid #808080;
+	margin-left:20rpx;
+	margin-top:20rpx;
+	margin-bottom: 20rpx;
+}
+
+.number{
+	width:90%;
+	height:40rpx;
+	border:1.9px solid #808080;
+	margin-left:20rpx;
+    margin-top:20rpx;
+}
+.time{
+	width:90%;
+	height:40rpx;
+	border:1.9px solid #808080;
+	margin-left:20rpx;
+	margin-top:20rpx;
+	margin-bottom: 20rpx;
+}
+.demand{
+	width:90%;
+	height:280rpx;
+	border:1.9px solid #808080;
+	margin-left:20rpx;
+	margin-top:20rpx;
+}
+.submit{
+	width:100%;
+	height:80rpx;
+	color:cornsilk;
+	background-color: chocolate;
+	margin-top:40rpx;
+}
+
+
+.form label,.form view{
+	color:#D2691E;
+	margin-left:20rpx;
+	padding-top:20rpx;
+}
+.form view{
+	margin-bottom: 20rpx;
+}
+#time{
+	color:black;
+}

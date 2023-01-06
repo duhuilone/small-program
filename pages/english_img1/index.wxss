@@ -1,0 +1,34 @@
+/* pages/english_img/ingdex.wxss */
+
+.img image{
+	width:94%;
+	margin-left:18rpx;
+}
+.title,.text{
+	text-align:center;
+}
+.title{
+	font-size:35rpx;
+	margin-top:10rpx;
+}
+.text{
+	margin-top:30rpx;
+	margin-bottom:30rpx;
+}
+
+.contact_way{
+	margin-top:60rpx;
+}
+.contact_way view{
+	margin-top:20rpx;
+	margin-left:20rpx;
+}
+.call{
+	width:60rpx;
+	height:80rpx;
+	background-color: #1E90FF;
+	border:1px solid #1E90FF;
+	color:#FFFFFF;
+	margin-top:40rpx;
+	
+}
